@@ -1,0 +1,5 @@
+.exe
+__pycache__
+_old
+build
+dist
